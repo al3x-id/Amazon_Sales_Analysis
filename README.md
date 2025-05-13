@@ -58,7 +58,6 @@ The dataset contains historical sales transaction records with fields such as:
 
 ## Key Insights & Recommendations
 
-- Debit Card orders had the highest cancellation rate, suggesting payment gateway issues or customer dissatisfaction.
 - The majority of cancelled orders were placed using Debit Cards, suggesting issues with that method. Credit Card transactions had the highest completion rate, making it the most reliable.”
 - Electronics and Home Appliances together account for most of the total revenue, suggesting a heavy customer preference and high-margin potential in these categories.
 - Average order value peaked in March 2025, indicating high-value transactions. Order count, however, was highest in February.
